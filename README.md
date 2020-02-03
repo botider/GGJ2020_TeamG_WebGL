@@ -1,1 +1,0 @@
-# GGJ2020_TeamG_WebGL
